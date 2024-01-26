@@ -1,0 +1,4 @@
+# .gitignore
+env/
+.env
+tasks_data.json
