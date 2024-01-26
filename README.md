@@ -1,9 +1,14 @@
 # ametice-reminder
 
+## note
+
+-   deadline des rendu correspond a la valeur timestart qui est en timestamp
+-   pour lancer le venv `source env/bin/activate`
+
 ## a faire :
 
 -   transformer le tasks data en qqch de plus lisible/propre
--   deadline des rendu correspond a la valeur timestart qui est en timestamp
+
 -   choisir la date pour les la liste des rendues
 -   mettre en place l'api icloud
 -   gestion d'erreurs
